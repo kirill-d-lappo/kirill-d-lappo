@@ -19,9 +19,10 @@
     * [TODO]
 
     **Achievements**:
-     [TODO]
 
     * Set up monitoring tool(`Grafana`) for QA environment, where it collects logs and checks server state.
+    * Wrote ps scripts, that build solution, create Install Shield installer, packed installer and additional installation files into an archive. 
+      It significantly reduced amount of manual work and build time (11-14 minute of pure script running).
 
 * `Automation Engineer` at Oxagile
 
