@@ -28,11 +28,11 @@
 
     * Set up monitoring tool(`Grafana`) for QA environments, where it collects logs and checks server state. 
 
-      That helped our teamn a lot with issue detection on multiple environments.
+      That helped our team a lot with issue detection in multiple environments.
  
-    * Created build scripts, that create customized install solution (Install Shield, custom launchers, etc.). 
+    * Created build scripts, that create a customized install solution (Install Shield, custom launchers, etc.). 
 
-      It significantly reduced amount of manual work and build time (11-14 minute of pure script running).
+      It significantly reduced the amount of manual work and build time (11-14 minutes of a pure script running).
 
 * `Automation Engineer` at Oxagile
 
@@ -46,9 +46,9 @@
 
     **Achievements**:
 
-    * Tests executions were moved to `Docker` containers, which made our team virtually independednt from technical or/and infrastructure changes on a project. 
+    * Tests executions were moved to `Docker` containers, which made our team virtually independent from technical or/and infrastructure changes on a project. 
 
-    * Fixed bug in `nunit3-vs-test` project, which did not allow test projects create attachments during test execution on Linux environment. [GitHub Issue](https://github.com/nunit/nunit3-vs-adapter/issues/494)
+    * Fixed bug in `nunit3-vs-test` project, which did not allow test projects to create attachments during test execution on Linux environment. [GitHub Issue](https://github.com/nunit/nunit3-vs-adapter/issues/494)
 
 ## Skills
 
