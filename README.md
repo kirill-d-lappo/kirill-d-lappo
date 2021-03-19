@@ -2,11 +2,11 @@
 
 ## Summary
 
-> 📧 kirill-lappo@outlook.com
+> 📧 [kirill-lappo@outlook.com](mailto:kirill-lappo@outlook.com)
 
 > 💼 [linkedin/kirill-lappo](https://www.linkedin.com/in/kirill-lappo-92a7a4130/)
 
-.Net Developer with 1+ year experience in
+.Net Developer with 1+ year experience in full-stack development
 
 ## Work Experience
 
@@ -16,12 +16,21 @@
 
     **Responsibilities**:
 
-    * [TODO]
+    * Stories and task assessment, work planning
+    * Stories implementations
+    * Code investigation
+    * Code clean up and refactoring
+    * Code review
+    * Issue verifications and investigations
+    * [Minor] Helped with CI processes support
 
     **Achievements**:
 
-    * Set up monitoring tool(`Grafana`) for QA environment, where it collects logs and checks server state.
-    * Wrote ps scripts, that build solution, create Install Shield installer, packed installer and additional installation files into an archive. 
+    * Set up monitoring tool(`Grafana`) for QA environments, where it collects logs and checks server state. 
+
+      That helped our teamn a lot with issue detection on multiple environments.
+ 
+    * Created build scripts, that create customized install solution (Install Shield, custom launchers, etc.). 
 
       It significantly reduced amount of manual work and build time (11-14 minute of pure script running).
 
@@ -32,7 +41,7 @@
     **Responsibilities:**
     * Writing test cases
     * Implementing test cases
-    * `Test Framework` support and development, integration with outer services: `TFS`, `Report Portal`
+    * `Test Framework` support and development, integration with outer services: `TFS` (old version of `Azure DevOps`), `Report Portal`
     * `Automation Testing` process support: build, deploy, execution
 
     **Achievements**:
@@ -49,7 +58,7 @@
 
 `Git` / Shell Scripting (`Bash`, `Powershell`)
 
-`Docker`
+`Docker` / `Kubernetes`
 
 `Go Lang` / `gRPC`
 
