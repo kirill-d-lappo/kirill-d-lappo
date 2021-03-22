@@ -2,9 +2,11 @@
 
 ## Summary
 
-> 📧 [kirill-lappo@outlook.com](mailto:kirill-lappo@outlook.com)
+📧 [kirill-lappo@outlook.com](mailto:kirill-lappo@outlook.com)
 
-> 💼 [linkedin/kirill-lappo](https://www.linkedin.com/in/kirill-lappo-92a7a4130/)
+💼 [linkedin/kirill-lappo](https://www.linkedin.com/in/kirill-lappo-92a7a4130/)
+
+📱 [dnaplayerskype](skype:dnaplayerskype?chat)
 
 .Net Developer with 1+ year experience in full-stack development
 
