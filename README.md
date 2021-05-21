@@ -12,9 +12,13 @@
 
 ## Work Experience
 
-* `.Net Developer` at Oxagile
+* `.Net Developer` at `Silicon Mint`
 
-    *May 2019 – Present*
+    *May 2021 – Present*
+
+* `.Net Developer` at `Oxagile`
+
+    *May 2019 – May 2021*
 
     **Responsibilities**:
 
@@ -36,7 +40,7 @@
 
       It significantly reduced the amount of manual work and build time (11-14 minutes of a pure script running).
 
-* `Automation Engineer` at Oxagile
+* `Automation Engineer` at `Oxagile`
 
     *December 2016 – May 2019*
 
