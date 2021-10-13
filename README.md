@@ -8,7 +8,7 @@
 
 📱 [dnaplayerskype](skype:dnaplayerskype?chat)
 
-.Net Developer with 1+ year experience in full-stack development
+.Net Developer with 2+ year experience in full-stack development
 
 ## Work Experience
 
