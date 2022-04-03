@@ -74,8 +74,6 @@
 
 `Docker` / `Kubernetes`
 
-`Go Lang` / `gRPC`
-
 ## Education
 
 * **Bachelor of Science**
