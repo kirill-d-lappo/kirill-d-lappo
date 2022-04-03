@@ -12,9 +12,15 @@
 
 ## Work Experience
 
+* `.Net Developer` at `Digitech7`
+
+    *December 2021 – Present*
+
 * `.Net Developer` at `Silicon Mint`
 
-    *May 2021 – Present*
+    *May 2021 – December 2021*
+    
+    * Code support and refactoring
 
 * `.Net Developer` at `Oxagile`
 
