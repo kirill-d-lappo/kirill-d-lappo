@@ -63,7 +63,7 @@
 
     * Tests executions were moved to `Docker` containers, which made our team virtually independent from technical or/and infrastructure changes on a project.
 
-      We were able to move text execution into `AWS` cloud infrastructure.
+      We were able to move test execution into `AWS` cloud infrastructure.
 
     * Fixed bug in `nunit3-vs-test` project, which did not allow test projects to create attachments during test execution on Linux environment. [GitHub Issue](https://github.com/nunit/nunit3-vs-adapter/issues/494)
 
