@@ -6,7 +6,7 @@
 
 💼 [linkedin/kirill-lappo](https://www.linkedin.com/in/kirill-lappo-92a7a4130/)
 
-📱 [dnaplayerskype](skype:dnaplayerskype?chat)
+📱 [Telegram/Kira](https://t.me/deliciousnewton) 
 
 .Net Developer with 2+ year experience in full-stack development
 
