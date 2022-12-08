@@ -15,6 +15,9 @@
 * `.Net Developer` at `Digitech7`
 
     *December 2021 – Present*
+   
+    * Migration and additional feature developing for CMS-based website 
+    * Code support and refactoring
 
 * `.Net Developer` at `Silicon Mint`
 
