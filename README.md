@@ -4,7 +4,7 @@
 
 📧 [kirill-lappo@outlook.com](mailto:kirill-lappo@outlook.com)
 
-💼 [linkedin/kirill-lappo](https://www.linkedin.com/in/kirill-lappo-92a7a4130/)
+💼 [linkedin/kirill-lappo](https://www.linkedin.com/in/kirill-d-lappo/)
 
 📱 [Telegram/Kira](https://t.me/deliciousnewton) 
 
