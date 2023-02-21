@@ -8,7 +8,7 @@
 
 📱 [Telegram/Kira](https://t.me/deliciousnewton) 
 
-.Net Developer with 2+ year experience in full-stack development
+.Net Developer with 3+ year experience in full-stack development
 
 ## Work Experience
 
