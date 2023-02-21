@@ -88,6 +88,16 @@
     Belarussian State University of Informatics and Radioelectronics, Minks, Belarus
 
     *Graduation: 2017*
+    
+## Taken courses
+
+* **Computer and Web Technologies Basics with Python by Digitalize.team**
+
+    [stepik.org](https://stepik.org/course/96018/)
+
+    *Year: 2021*
+
+    [Certificate](https://stepik.org/cert/971816)
 
 * **React course**
 
@@ -96,6 +106,15 @@
     *Year: 2019*
 
     [Certificate](https://learn.javascript.ru/courses/react-20190514/kirill-lappo/en/certificate.jpg)
+
+* **Advanced React Course**
+    
+    lear.javascript.ru
+    
+    *Year: 2019*
+    
+    [Certificate](https://learn.javascript.ru/courses/advreact-20191102/kirill-lappo/en/certificate.jpg)
+    
 
 ## Languages:
 
