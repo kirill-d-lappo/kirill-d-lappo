@@ -2,11 +2,11 @@
 
 .Net Developer with 3+ year experience in full-stack development from Minsk.
 
-📧 [kirill-lappo@outlook.com](mailto:kirill-lappo@outlook.com)
+[kirill-lappo@outlook.com](mailto:kirill-lappo@outlook.com)
 
-💼 [linkedin/kirill-lappo](https://www.linkedin.com/in/kirill-d-lappo/)
+[linkedin/kirill-lappo](https://www.linkedin.com/in/kirill-d-lappo/)
 
-📱 [Telegram/Kira](https://t.me/deliciousnewton) 
+[Telegram/Kira](https://t.me/deliciousnewton) 
 
 ## Work Experience
 
@@ -75,7 +75,7 @@
 
 `Java Script` / `React`
 
-`Git` / Shell Scripting (`Bash`, `Powershell`)
+`Git` / `Bash` / `Powershell`
 
 `Docker` / `Kubernetes`
 
