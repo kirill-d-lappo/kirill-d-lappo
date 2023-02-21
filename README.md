@@ -17,6 +17,7 @@
     *December 2021 – Present*
    
     * Migration and additional feature developing for CMS-based website 
+    * Code adaptation to DXP platoform.
     * Code support and refactoring
 
 * `.Net Developer` at `Silicon Mint`
@@ -24,6 +25,7 @@
     *May 2021 – December 2021*
     
     * Code support and refactoring
+    * Improved performance of a backend service 
 
 * `.Net Developer` at `Oxagile`
 
