@@ -89,7 +89,7 @@
 
     *Graduation: 2017*
     
-## Taken courses
+## Taken Courses
 
 * **Computer and Web Technologies Basics with Python by Digitalize.team**
 
