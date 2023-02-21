@@ -1,3 +1,5 @@
-pandoc ./README.md -o ./out/resume.docx 
-pandoc ./README.md -o ./out/resume.pdf
+mkdir -p ./out
+pandoc -o ./out/resume.docx ./README.md
+pandoc -o ./out/resume.pdf ./README.md
+
 
