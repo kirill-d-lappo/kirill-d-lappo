@@ -6,15 +6,15 @@
 
 [linkedin/kirill-lappo](https://www.linkedin.com/in/kirill-d-lappo/)
 
-[Telegram/Kira](https://t.me/deliciousnewton) 
+[Telegram/Kira](https://t.me/deliciousnewton)
 
 ## Work Experience
 
 * `.Net Developer` at `Digitech7`
 
     *December 2021 – Present*
-   
-    * Migration and additional feature developing for CMS-based website 
+
+    * Migration and additional feature developing for CMS-based website
     * Code adaptation to DXP platform
     * Improved build performance for DXP paltform
     * Code support and refactoring
@@ -22,10 +22,10 @@
 * `.Net Developer` at `Silicon Mint`
 
     *May 2021 – December 2021*
-    
+
     * Code support and refactoring
     * Improved performance of a backend service
-    * Took part in service structure and workflow review 
+    * Took part in service structure and workflow review
 
 * `.Net Developer` at `Oxagile`
 
@@ -43,11 +43,11 @@
 
     **Achievements**:
 
-    * Set up monitoring tool(`Grafana`) for QA environments, where it collects logs and checks server state. 
+    * Set up monitoring tool(`Grafana`) for QA environments, where it collects logs and checks server state.
 
       That helped our team a lot with issue detection in multiple environments.
- 
-    * Created build scripts, that create a customized install solution (Install Shield, custom launchers, etc.). 
+
+    * Created build scripts, that create a customized install solution (Install Shield, custom launchers, etc.).
 
       It significantly reduced the amount of manual work and build time (11-14 minutes of a pure script running).
 
@@ -71,13 +71,13 @@
 
 ## Skills
 
-`.Net` / `ASP Net` / `SQL`
+.Net / ASP Net / SQL
 
-`Java Script` / `React`
+JavaScript / React
 
-`Git` / `Bash` / `Powershell`
+Git / Bash / Powershell
 
-`Docker` / `Kubernetes`
+Docker / Kubernetes
 
 ## Education
 
@@ -86,7 +86,7 @@
     Belarussian State University of Informatics and Radioelectronics, Minks, Belarus
 
     *Graduation: 2017*
-    
+
 ## Taken Courses
 
 * **Computer and Web Technologies Basics with Python by Digitalize.team**
@@ -106,13 +106,13 @@
     [Certificate](https://learn.javascript.ru/courses/react-20190514/kirill-lappo/en/certificate.jpg)
 
 * **Advanced React Course**
-    
+
     lear.javascript.ru
-    
+
     *Year: 2019*
-    
+
     [Certificate](https://learn.javascript.ru/courses/advreact-20191102/kirill-lappo/en/certificate.jpg)
-    
+
 
 ## Languages:
 
