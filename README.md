@@ -17,7 +17,7 @@
     *December 2021 – Present*
    
     * Migration and additional feature developing for CMS-based website 
-    * Code adaptation to DXP platoform.
+    * Code adaptation to DXP platform.
     * Code support and refactoring
 
 * `.Net Developer` at `Silicon Mint`
