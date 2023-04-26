@@ -12,7 +12,7 @@
 
 * `.Net Developer` at `Digitech7`
 
-    *December 2021 – Present*
+    *December 2021 – February 2023*
 
     * Migration and additional feature developing for CMS-based website
     * Code adaptation to DXP platform
