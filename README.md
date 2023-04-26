@@ -6,7 +6,7 @@
 
 [linkedin/kirill-lappo](https://www.linkedin.com/in/kirill-d-lappo/)
 
-[Telegram/Kira](https://t.me/deliciousnewton)
+[Telegram/Kirill](https://t.me/deliciousnewton)
 
 ## Work Experience
 
