@@ -14,7 +14,10 @@
 
     *July 2023 – Now*
 
-    * 
+    * communication with PO on planned functionality directly
+    * participation in team discussion on system implementation and estimations
+    * development of planned functionality on backend part
+    * support of CI/CD process
 
 * `.Net Developer` at `Digitech7`
 
