@@ -1,14 +1,20 @@
 # Kirill Lappo
 
-.Net Developer with 3+ year experience in full-stack development from Minsk.
+.Net Developer with 5+ year experience in full-stack development from Minsk.
 
 [kirill-lappo@outlook.com](mailto:kirill-lappo@outlook.com)
 
 [linkedin/kirill-lappo](https://www.linkedin.com/in/kirill-d-lappo/)
 
-[Telegram/Kirill](https://t.me/deliciousnewton)
+[Telegram/Kirill](https://t.me/invertedknut)
 
 ## Work Experience
+
+* `.Net Developer` at `Digitech7`
+
+    *July 2023 – Now*
+
+    * 
 
 * `.Net Developer` at `Digitech7`
 
