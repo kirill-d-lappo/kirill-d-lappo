@@ -2,9 +2,20 @@
 
 .Net Developer with 5+ year experience in full-stack development from Minsk.
 
-* <img src="./img/ms-outlook.svg" width="14"> [kirill-lappo@outlook.com](mailto:kirill-lappo@outlook.com)
-* <img src="./img/linkedin-original.svg" width="14"> [Kirill Lappo](https://www.linkedin.com/in/kirill-d-lappo/)
-* <img src="./img/telegram.svg" width="14"> [Kirill](https://t.me/invertedknut)
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between">
+    <div>
+      <img style="display: inline;" src="./img/ms-outlook.svg" width="14">
+      <a href="mailto:kirill-lappo@outlook.com">kirill-lappo@outlook.com</a>
+    </div>
+    <div>
+      <img style="display: inline;" src="./img/linkedin-original.svg" width="14">
+      <a href="https://www.linkedin.com/in/kirill-d-lappo/">Kirill Lappo</a>
+    </div>
+    <div>
+     <img src="./img/telegram.svg" width="14">
+      <a href="https://t.me/invertedknut">Kirill</a>
+   </div>
+</div>
 
 ## Work Experience
 
