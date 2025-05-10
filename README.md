@@ -13,7 +13,7 @@
     </div>
     <div>
      <img src="./img/telegram.svg" width="14">
-      <a href="https://t.me/sweetnox">Kirill</a>
+      <a href="https://t.me/twistedsmith">Kirill</a>
    </div>
 </div>
 
