@@ -4,7 +4,7 @@
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between">
     <div>
-      <img style="display: inline;" src="./img/ms-outlook.svg1" width="14">
+      <img style="display: inline;" src="./img/ms-outlook.svg" width="14">
       <a href="mailto:kirill-lappo@outlook.com">kirill-lappo@outlook.com</a>
     </div>
     <div>
