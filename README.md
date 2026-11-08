@@ -11,10 +11,6 @@
       <img style="display: inline;" src="./img/linkedin-original.svg" width="14">
       <a href="https://www.linkedin.com/in/kirill-d-lappo/" style="text-decoration: none;">Kirill Lappo</a>
     </div>
-    <div>
-     <img src="./img/telegram.svg" width="14">
-      <a href="https://t.me/unrelateddarwin">Kirill</a>
-   </div>
 </div>
 
 ## Work Experience
